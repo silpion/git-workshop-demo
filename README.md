@@ -12,5 +12,10 @@ Upstream information on how to use markdown can be found at
 
 This workshop splits up in 6 sections.
 
+## Showoff
+
+Please see showoff.md for further information about this workshops
+slides.
+
 
 <!-- vim: set nofen sw=4 st=4 et: -->
